@@ -1,0 +1,10 @@
+﻿/*banner切换*/
+.slideBox{height:815px;overflow:hidden;position:relative;height:380px;}
+/*.slideBox .hd{width:10px;overflow:hidden;position:absolute;bottom:20px;z-index:10; width:100%;}
+.slideBox .hd ul{overflow:hidden;zoom:1;float:right; padding-right:25px;}
+.slideBox .hd ul li{width:10px;height:10px;cursor:pointer;background:url(../images/banner_ico1.png) no-repeat 0px 0px;margin-bottom:10px;}
+.slideBox .hd ul li.on{background:url(../images/banner_ico2.png) no-repeat center center;}*/
+.slideBox .bd{position:relative;height:100%;z-index:0;}
+.slideBox .bd li{zoom:1;vertical-align:middle;text-align:center;}
+.slideBox .bd li a{display:block;height:380px;width:100%;}
+/*banner切换*/
